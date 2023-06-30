@@ -21,7 +21,7 @@ public class Pattern4 {
     }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int n =4;
+		 int n =5;
 	        printPattern(n);
 	}
 	}
